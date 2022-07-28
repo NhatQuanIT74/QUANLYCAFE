@@ -15,6 +15,8 @@ namespace SE447I_QLCAFE
     {
         string maNV, matKhau, quyen, tenHienThi;
 
+        //Quân test thử
+
         private void button1_Click(object sender, EventArgs e)
         {
             DataTable dt = new DataTable();
